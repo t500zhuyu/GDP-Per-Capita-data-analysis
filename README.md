@@ -1,5 +1,5 @@
 # GDP-Per-Capita-data-analysis
-This is a analysis using SQL
+This is data a analysis using SQL
 In this analysis I answer some questions about the information of the different tables of this database
 
 Some of principal task and queries used to answer and share the information were:
